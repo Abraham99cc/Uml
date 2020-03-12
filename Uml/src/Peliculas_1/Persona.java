@@ -1,4 +1,4 @@
-package Uml;
+package Peliculas_1;
 
 import java.util.Date;
 

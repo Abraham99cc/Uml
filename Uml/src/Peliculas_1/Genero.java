@@ -1,4 +1,4 @@
-package Uml;
+package Peliculas_1;
 
 public enum Genero {
 	drama,
